@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Tpo.Notification" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Tpo.Notification" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfGateWayProvider">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="GateWayProvider" nillable="true" type="tns:GateWayProvider" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfGateWayProvider" nillable="true" type="tns:ArrayOfGateWayProvider" />
+  <xs:complexType name="GateWayProvider">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ProviderId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ProviderName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SmsAddress" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="GateWayProvider" nillable="true" type="tns:GateWayProvider" />
+  <xs:complexType name="SMSMessage">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="client" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="fromAddress" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="fromName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="scheduledDateTime" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="subject" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="textBody" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="toAddress" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SMSMessage" nillable="true" type="tns:SMSMessage" />
+  <xs:complexType name="Response">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="message" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="statusCode" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Response" nillable="true" type="tns:Response" />
+</xs:schema>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\tpolod2app01\dbMQ\web" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="Web sites\TPOWebService" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/TPONotification.dll" publishTime="02/01/2013 12:24:54" />
+    <file relUrl="Web.config" publishTime="02/01/2013 12:25:02" />
+    <file relUrl="Notification.svc" publishTime="10/04/2012 13:52:40" />
+    <file relUrl="bin/log4net.dll" publishTime="09/14/2012 09:43:57" />
+    <file relUrl="bin/TPONotification.pdb" publishTime="02/01/2013 12:24:54" />
+    <file relUrl="bin/Tpo.BusinessObjects.dll" publishTime="07/31/2012 10:06:23" />
+    <file relUrl="bin/Tpo.Infrastructure.dll" publishTime="11/16/2012 16:59:00" />
+    <file relUrl="Web.config.token" publishTime="01/25/2013 11:04:50" />
+  </publishProfile>
+</publishData>

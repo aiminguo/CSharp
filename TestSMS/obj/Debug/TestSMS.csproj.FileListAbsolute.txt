@@ -1,0 +1,11 @@
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TestSMS\bin\Debug\TestSMS.dll.config
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TestSMS\bin\Debug\TestSMS.dll
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TestSMS\bin\Debug\TestSMS.pdb
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TestSMS\bin\Debug\TPONotification.dll
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TestSMS\bin\Debug\log4net.dll
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TestSMS\bin\Debug\Tpo.Infrastructure.dll
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TestSMS\bin\Debug\Tpo.BusinessObjects.dll
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TestSMS\bin\Debug\TPONotification.pdb
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TestSMS\obj\Debug\TestSMS.csprojResolveAssemblyReference.cache
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TestSMS\obj\Debug\TestSMS.dll
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TestSMS\obj\Debug\TestSMS.pdb

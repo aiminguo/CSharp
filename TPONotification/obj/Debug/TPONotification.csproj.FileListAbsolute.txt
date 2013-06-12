@@ -1,0 +1,8 @@
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TPONotification\bin\TPONotification.dll
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TPONotification\bin\TPONotification.pdb
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TPONotification\bin\log4net.dll
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TPONotification\bin\Tpo.Infrastructure.dll
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TPONotification\bin\Tpo.BusinessObjects.dll
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TPONotification\obj\Debug\TPONotification.csprojResolveAssemblyReference.cache
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TPONotification\obj\Debug\TPONotification.dll
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\TPONotification\obj\Debug\TPONotification.pdb

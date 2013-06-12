@@ -1,0 +1,5 @@
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\ConsoleApplication\bin\Debug\SMSConsoleApplication.exe.config
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\ConsoleApplication\bin\Debug\SMSConsoleApplication.exe
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\ConsoleApplication\bin\Debug\SMSConsoleApplication.pdb
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\ConsoleApplication\obj\x86\Debug\SMSConsoleApplication.exe
+C:\TPDataServices\Notification\c.1_Future\TPO.Notification\ConsoleApplication\obj\x86\Debug\SMSConsoleApplication.pdb
